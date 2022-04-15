@@ -8,7 +8,7 @@
 int firstNumber = 3;
 double firstNumberDouble = 3.3;
 bool isOdd = true; // 2 tane değere sahip true/false
-String name = "Kadriye";
+String name = "Kadriye"; // Her zaman metinler tırnak işareti içindedir.
 String surname = 'Macit';
 
 var age = 5;
