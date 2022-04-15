@@ -11,3 +11,4 @@
 //15.04.2022
 // Algoritma şeması/Akış şeması nedir?
 // 3 tane basit akış şeması örneği çizelim.
+// Git işlemleri nedir?
