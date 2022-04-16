@@ -12,3 +12,8 @@
 // Algoritma şeması/Akış şeması nedir?
 // 3 tane basit akış şeması örneği çizelim.
 // Git işlemleri nedir?
+
+//16.04.2022
+// Çapı 10 olan dairenin alanını hesaplayan bir fonksiyon yazalım
+// Kullanıcının 4000 km'lik yolu 4 saatte giderse, bu kullanıcının hızını hesaplayan bir fonksiyon yazalım
+// Çalışanın eski maaşı 7000 pound iken, yeni maaşı 9000 pound ise zam oranını hesaplayan bir fonksiyon yazalım
