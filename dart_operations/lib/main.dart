@@ -1,4 +1,5 @@
-import 'package:dart_operations/functions.dart';
+import 'package:dart_operations/lessons/functions.dart';
+import 'package:dart_operations/programming_examples/code_examples.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -59,7 +60,7 @@ class _MyHomePageState extends State<MyHomePage> {
         ),
       ),
       floatingActionButton: FloatingActionButton(
-        onPressed: secondFunction,
+        onPressed: divisionFunction,
         tooltip: 'Increment',
         child: const Icon(Icons.add),
       ),
