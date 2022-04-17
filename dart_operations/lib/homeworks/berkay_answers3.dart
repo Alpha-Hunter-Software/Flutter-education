@@ -4,12 +4,26 @@
 
 import 'dart:ffi';
 
-double oldSalary = 7000.0;
-double increase = 2000.0;
-double newzam = 9000.0;
-double percentage = 100.0;
-String divison = "/";
-String equal = "=";
-double raiseRate = 0.0;
+import 'package:dart_operations/homeworks/berkay_answers.dart';
 
-void raiseRateFunction() {}
+double oldSalary = 7000.0; // oldSalary = Eski Maaş
+double increase = 2000.0; //  increase = artış
+double newSalary = 9000.0; // newSalary = Yeni maaş
+double percentage = 100.0; // percentage = Yüzde
+String divison = "/"; // divison = bölme işlemi
+String Multiplication = "*"; // Multiplication = çarpma işlemi
+String equal = "="; // equal = eşit
+double raiseRate = 0.0; // raiserate = Zam Oranı
+
+void raiseRateFunction() {
+  print("Zam oranı belirleme");
+
+  raiseRate = increase * percentage / oldSalary;
+
+  print(raiseRate);
+
+// 28.57142857
+  print(
+      "$raiseRate $equal $increase $multiplication $percentage $divison $oldSalary");
+// Zam oranı = artış * 100 / eski maaş.
+}

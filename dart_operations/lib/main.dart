@@ -1,5 +1,6 @@
 import 'package:dart_operations/homeworks/berkay_answers.dart';
 import 'package:dart_operations/homeworks/berkay_answers2.dart';
+import 'package:dart_operations/homeworks/berkay_answers3.dart';
 import 'package:dart_operations/lessons/functions.dart';
 import 'package:dart_operations/programming_examples/code_examples.dart';
 import 'package:flutter/material.dart';
@@ -62,7 +63,7 @@ class _MyHomePageState extends State<MyHomePage> {
         ),
       ),
       floatingActionButton: const FloatingActionButton(
-        onPressed: speedFormulaFunction,
+        onPressed: raiseRateFunction,
         tooltip: 'Increment',
         child: Icon(Icons.add),
       ),
