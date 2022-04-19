@@ -21,9 +21,12 @@ int secondFunction() {
 //----------------------------------------------------------------------------------
 
 bool yearFunction() {
+  // fonksiyona veri göndermeyi göstermek için tanımladık burayı
   String year = "2022";
-  bool isYear = true;
   berkayExample(year);
+//
+
+  bool isYear = true;
   return isYear;
 }
 
@@ -43,4 +46,21 @@ void send() {
     secondFunction(), // sonucu int olduğu için fonksiyon da çağırabilir
     isOld,
   );
+}
+
+//
+String usernameExampleFunction() {
+  int nameCount = 5;
+  bool isName = true;
+  double nameLetter = 10.3;
+  String nameSurname = "kkkkk";
+
+  name(nameSurname);
+
+  return nameSurname;
+}
+
+//
+void name(String name) {
+  print(name);
 }
