@@ -26,4 +26,6 @@
 
 //19.04.2022
 // Operatör işaretlerinin anlamlarını araştıralım
-//
+// Rastgele tanımlanan harfin sesli harf olup olmadığını kontrol eden bir fonksiyon
+// Rastgele bir yılın şu anki yılda olup olmadığını bulan 
+// Bir robotu yürütmek için sağ-sol-ileri-geri yönlendiren bir program yazın
