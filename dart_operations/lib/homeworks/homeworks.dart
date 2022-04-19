@@ -20,3 +20,10 @@
 //17.04.2022
 // void fonksiyonları -> dönüş tipi olan fonksiyonlara çevirelim
 // 5 tane veri gönderilen fonksiyon tanımlayıp bunları çağırmak
+
+//18.04.2022
+//TATİL
+
+//19.04.2022
+// Operatör işaretlerinin anlamlarını araştıralım
+//
