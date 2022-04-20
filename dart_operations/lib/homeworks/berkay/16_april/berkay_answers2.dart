@@ -25,3 +25,9 @@ void speedFormulaFunction() {
 
 // 1000
 }
+
+double returnFunction() {
+  speed = path / time;
+
+  return speed;
+}

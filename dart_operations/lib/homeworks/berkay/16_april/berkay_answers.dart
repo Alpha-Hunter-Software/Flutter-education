@@ -7,7 +7,7 @@ String multiplication = "*"; // Multiplication = Çarpma işlemi
 String eque = "="; //  Eque =  Eşit
 double numberArea = 0.0; // Area = Alan
 
-void fieldAccountfunction() {
+void fieldAccountFunction() {
   //isim düzeltilecek
   print("Alan hesaplama");
 

@@ -1,10 +1,5 @@
-import 'package:dart_operations/homeworks/berkay/16_april/berkay_answers.dart';
 import 'package:dart_operations/homeworks/berkay/16_april/berkay_answers2.dart';
-import 'package:dart_operations/homeworks/berkay/16_april/berkay_answers3.dart';
-import 'package:dart_operations/lessons/controls/control_if_else.dart';
-import 'package:dart_operations/lessons/controls/control_switch_case.dart';
 import 'package:dart_operations/lessons/functions.dart';
-import 'package:dart_operations/programming_examples/code_examples.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -58,14 +53,14 @@ class _MyHomePageState extends State<MyHomePage> {
               'You have pushed the button this many times:',
             ),
             Text(
-              fieldFunction().toString(),
+              returnFunction().toString(),
               style: Theme.of(context).textTheme.headline4,
             ),
           ],
         ),
       ),
       floatingActionButton: const FloatingActionButton(
-        onPressed: usernameExampleFunction,
+        onPressed: returnFunction,
         tooltip: 'Increment',
         child: Icon(Icons.add),
       ),

@@ -2,6 +2,8 @@
 
 // Zam oranı = Zam tutarı*100 / eski maaş
 
+import 'dart:ffi';
+
 double oldSalary = 7000.0; // oldSalary = Eski Maaş
 double increase = 2000.0; //  increase = artış
 // hesaplanması lazım
@@ -20,6 +22,13 @@ void raiseRateFunction() {
   print(raiseRate);
 
 // 28.57142857
-  print("$raiseRate $equal $increase $multiplication $percentage $divison $oldSalary");
+  print(
+      "$raiseRate $equal $increase $multiplication $percentage $divison $oldSalary");
 // Zam oranı = artış * 100 / eski maaş.
+}
+
+double raiseFunction() {
+  raiseRate = increase * percentage / oldSalary;
+
+  return raiseRate;
 }
