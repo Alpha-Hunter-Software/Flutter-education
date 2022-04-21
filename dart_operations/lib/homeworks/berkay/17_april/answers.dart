@@ -2,7 +2,7 @@
 
 void description() {
   double score = 1;
-  double clock = 8.00;
+  double clock = 11.00;
 
   emotion(score, clock);
 }
