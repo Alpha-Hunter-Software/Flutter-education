@@ -1,10 +1,8 @@
 import 'package:dart_operations/homeworks/answers/17_april/homeworks_answers.dart';
-import 'package:dart_operations/homeworks/answers/19_april/homeworks_answers.dart';
 import 'package:dart_operations/homeworks/berkay/16_april/berkay_answers2.dart';
-import 'package:dart_operations/homeworks/berkay/17_april/answers.dart';
-import 'package:dart_operations/homeworks/berkay/19_april/homework2.dart';
-import 'package:dart_operations/homeworks/berkay/21_april/randomexamples.dart';
-import 'package:dart_operations/lessons/functions.dart';
+import 'package:dart_operations/lessons/loops/look_do_while.dart';
+import 'package:dart_operations/lessons/loops/loop_for.dart';
+import 'package:dart_operations/lessons/loops/loop_while.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -65,7 +63,7 @@ class _MyHomePageState extends State<MyHomePage> {
         ),
       ),
       floatingActionButton: const FloatingActionButton(
-        onPressed: Funciton,
+        onPressed: general,
         tooltip: 'Increment',
         child: Icon(Icons.add),
       ),

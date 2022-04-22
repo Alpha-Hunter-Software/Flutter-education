@@ -24,3 +24,17 @@ dynamic isYoung = false;
 dynamic day = 1.2;
 
 // dynamic, ilerde istediği her tipte değişebilir.
+
+// Listeler
+List emptyFruits = []; // boş liste , empty = boş, fruit = meyve
+List oneFruit = ["Elma"]; // 1 elemanlı liste
+List fruits = ["Elma", "Armut", "Kivi", "Muz"]; // 4 elemanlı
+
+List mixList = ["Berkay", 1, 2.3, "Zafer", true]; // tipi yok
+
+List<String> names = ["Berkay", "Zafer"];
+List<int> values = [1, 2, 3, 4, 5];
+List<bool> controls = [true, true, true, true, false];
+List<double> numbers = [2.3, 5.6, 7.8];
+
+// değişkenin önünde tanımlanan her şey, o değişkenin tipidir.

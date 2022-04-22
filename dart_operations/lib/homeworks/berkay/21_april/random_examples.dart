@@ -1,9 +1,6 @@
 import 'dart:math';
 
-import 'package:dart_operations/programming_examples/code_examples.dart';
-import 'package:flutter/material.dart';
-
-void solotest() {
+void soloTest() {
   int numberOfPawns = Random().nextInt(3) + 1;
 
   print(numberOfPawns);
@@ -22,7 +19,7 @@ String division = "/"; // division = bölme işlemi
 String equal = "="; // equal = eşit
 double numberResult = 0;
 
-void Funciton() {
+void function() {
   double firstNumber = 3659;
   double secondNumber = 1002;
   String command = extraction;
@@ -30,8 +27,7 @@ void Funciton() {
   additionFunction(firstNumber, secondNumber, command, numberResult);
 }
 
-void additionFunction(double firstNumber, double secondNumber, String command,
-    double numberResult) {
+void additionFunction(double firstNumber, double secondNumber, String command, double numberResult) {
   if (command == addition) {
     numberResult = firstNumber + secondNumber;
     print("$firstNumber $command $secondNumber $equal $numberResult");

@@ -1,6 +1,6 @@
 // 5 tane veri gönderilen fonksiyon tanımlayıp bunları çağırmak
 
-void general() {
+void general2() {
   double height = 185;
   double weigth = 90;
 
