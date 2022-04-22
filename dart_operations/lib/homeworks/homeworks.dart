@@ -29,3 +29,10 @@
 // Rastgele tanımlanan harfin sesli harf olup olmadığını kontrol eden bir fonksiyon
 // Rastgele bir yılın şu anki yılda olup olmadığını bulan 
 // Bir robotu yürütmek için sağ-sol-ileri-geri yönlendiren bir program yazın
+
+// 22.04.2022
+// Üçgenin çeşidini yazdıran bir program yazalım, 3 tane değişken oluşturun ve içerisine değerler girin, Program bu 3 değişkene bakarak bize üçgenin çeşidini yazsın
+// İstediğimiz bir cümleyi her bir döngü yapısı ile ekrana beşer kere yazdıralım (for, do-while, while)
+// Verdiğimiz sayının faktoriyel değerini hesaplayın
+// Geri dönüş tipi int olan bir fonksiyon yazın, Girdiğimiz sayıların toplamını geri döndürsün, Örnek = 5 girersek (5+4+3+2+1=15) şeklinde
+// Geri dönüş değeri int tipinde bir fonksiyon yazınız, Fonksiyonumuz int tipinde bir sayı alsın, Aldığı sayıya kadar olan çift sayıların toplamını geriye döndürsün
