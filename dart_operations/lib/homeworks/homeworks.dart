@@ -36,3 +36,13 @@
 // Verdiğimiz sayının faktoriyel değerini hesaplayın
 // Geri dönüş tipi int olan bir fonksiyon yazın, Girdiğimiz sayıların toplamını geri döndürsün, Örnek = 5 girersek (5+4+3+2+1=15) şeklinde
 // Geri dönüş değeri int tipinde bir fonksiyon yazınız, Fonksiyonumuz int tipinde bir sayı alsın, Aldığı sayıya kadar olan çift sayıların toplamını geriye döndürsün
+
+// 24.04.2022
+// Dikdörtgen alanı hesaplayan bir fonksiyon yazın.
+// Geri dönüş değeri int tipinde bir fonksiyon yazınız, Fonksiyonumuz int tipinde bir sayı alsın, Aldığı sayıya kadar olan tek sayıların toplamını geriye döndürsün
+// While Döngüsü kullanarak 1-100 arası sayıları ekranda gösteren bir fonksiyon
+// While döngüsü ile 1 den 100′ e kadar sayıların toplamını yazdıran bir fonksiyon
+// İç içe for döngüleri nedir, nasıl kullanılır araştıralım
+// 5 sayı arasındaki en küçük ve en büyük sayıyı bulan fonksiyon
+// Herhangi bir sayının asal sayı olup olmadığını gösteren bir fonksiyon
+// Fibonacci serisindeki ilk 10 sayıyı yazdıran bir fonksiyon 
