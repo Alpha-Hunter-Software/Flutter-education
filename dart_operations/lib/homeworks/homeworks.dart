@@ -37,6 +37,9 @@
 // Geri dönüş tipi int olan bir fonksiyon yazın, Girdiğimiz sayıların toplamını geri döndürsün, Örnek = 5 girersek (5+4+3+2+1=15) şeklinde
 // Geri dönüş değeri int tipinde bir fonksiyon yazınız, Fonksiyonumuz int tipinde bir sayı alsın, Aldığı sayıya kadar olan çift sayıların toplamını geriye döndürsün
 
+//23.04.2022
+//TATİL
+
 // 24.04.2022
 // Dikdörtgen alanı hesaplayan bir fonksiyon yazın.
 // Geri dönüş değeri int tipinde bir fonksiyon yazınız, Fonksiyonumuz int tipinde bir sayı alsın, Aldığı sayıya kadar olan tek sayıların toplamını geriye döndürsün
