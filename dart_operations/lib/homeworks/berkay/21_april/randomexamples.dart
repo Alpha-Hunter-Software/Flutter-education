@@ -23,9 +23,9 @@ String equal = "="; // equal = eşit
 double numberResult = 0;
 
 void Funciton() {
-  double firstNumber = 3659;
+  double firstNumber = 15;
   double secondNumber = 1002;
-  String command = extraction;
+  String command = multiplication;
   double numberResult = 0;
   additionFunction(firstNumber, secondNumber, command, numberResult);
 }
