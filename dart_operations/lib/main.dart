@@ -1,5 +1,6 @@
 import 'package:dart_operations/homeworks/answers/17_april/homeworks_answers.dart';
 import 'package:dart_operations/homeworks/answers/19_april/homeworks_answers.dart';
+import 'package:dart_operations/homeworks/answers/22_april/homeworks_answers.dart';
 import 'package:dart_operations/homeworks/berkay/16_april/berkay_answers2.dart';
 import 'package:dart_operations/homeworks/berkay/17_april/answers.dart';
 import 'package:dart_operations/homeworks/berkay/19_april/homework2.dart';
@@ -58,14 +59,14 @@ class _MyHomePageState extends State<MyHomePage> {
               'You have pushed the button this many times:',
             ),
             Text(
-              returnFunction().toString(),
+              isOddProblem().toString(),
               style: Theme.of(context).textTheme.headline4,
             ),
           ],
         ),
       ),
       floatingActionButton: const FloatingActionButton(
-        onPressed: function,
+        onPressed: factorial,
         tooltip: 'Increment',
         child: Icon(Icons.add),
       ),
