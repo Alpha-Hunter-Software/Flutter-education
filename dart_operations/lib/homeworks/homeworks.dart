@@ -52,3 +52,20 @@
 
 //25.04.2022
 // List veri tipinde bir değişken oluşturup bunun özelliklerine bakalım
+// Herhangi bir sayının 3′ e ve 5′ e tam bölünüp bülünmediğini gösteren fonksiyon
+// Herhangi bir fiyat değerine % 18 kdv ekleyip kdvli fiyatını bulan ve ekrana yazan program
+// Yıldızlarla (*) üçgen şekli oluşturan bir fonksiyon yazalım
+// *
+// * *
+// * * *
+// * * * *
+// * * * * *        gibi
+// key = String, value = double tipinde bir map yapısı oluşturalım
+// key = int, value = String tipinde bir map yapısı oluşturalım
+// key = dynamic, value = dynamic tipinde bir map yapısı oluşturalım
+// key = String, value = bool tipinde bir map yapısı oluşturalım
+// Burçların bulunduğu bir liste oluşturalım, bu listeyi for ile yazdıralım
+// Gezmek istediğimiz ülkelerin listesini oluşturup, 5 tane yeni ülke ekleyelim
+// Okuduğumuz dergilerin listesinden 2 dergiyi silelim
+// Oluşturacağımız herhangi bir listeden 7. elemanı yazdıralım
+// double tipinde 4 elemanlı bir Set yapısı tanımlayalım
