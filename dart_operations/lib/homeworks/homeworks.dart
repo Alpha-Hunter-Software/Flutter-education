@@ -49,3 +49,6 @@
 // 5 sayı arasındaki en küçük ve en büyük sayıyı bulan fonksiyon
 // Herhangi bir sayının asal sayı olup olmadığını gösteren bir fonksiyon
 // Fibonacci serisindeki ilk 10 sayıyı yazdıran bir fonksiyon 
+
+//25.04.2022
+// List veri tipinde bir değişken oluşturup bunun özelliklerine bakalım

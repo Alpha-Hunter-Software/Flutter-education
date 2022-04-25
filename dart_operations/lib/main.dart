@@ -7,7 +7,9 @@ import 'package:dart_operations/homeworks/berkay/19_april/homework2.dart';
 import 'package:dart_operations/homeworks/berkay/21_april/random_examples.dart';
 import 'package:dart_operations/homeworks/berkay/25_april/homeworks_answers_berkay.dart';
 import 'package:dart_operations/lessons/functions.dart';
+import 'package:dart_operations/lessons/list_examples.dart';
 import 'package:dart_operations/lessons/loops/loop_while.dart';
+import 'package:dart_operations/lessons/set_examples.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -68,7 +70,7 @@ class _MyHomePageState extends State<MyHomePage> {
         ),
       ),
       floatingActionButton: const FloatingActionButton(
-        onPressed: whileFunctions,
+        onPressed: setExamples,
         tooltip: 'Increment',
         child: Icon(Icons.add),
       ),

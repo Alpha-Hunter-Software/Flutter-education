@@ -26,6 +26,8 @@ dynamic day = 1.2;
 // dynamic, ilerde istediği her tipte değişebilir.
 
 // Listeler
+// Liste'de aynı eleman birden fazla bulunabilir
+// Listeler her zaman sıralıdır
 List emptyFruits = []; // boş liste , empty = boş, fruit = meyve
 List oneFruit = ["Elma"]; // 1 elemanlı liste
 List fruits = ["Elma", "Armut", "Kivi", "Muz"]; // 4 elemanlı
@@ -38,3 +40,25 @@ List<bool> controls = [true, true, true, true, false];
 List<double> numbers = [2.3, 5.6, 7.8];
 
 // değişkenin önünde tanımlanan her şey, o değişkenin tipidir.
+
+// Set yapısı
+// Set yapısı aynı List gibidir.
+// Set yapısında aynı eleman birden fazla bulunamaz.
+// Sırasızdır
+// Set - Çekiliş
+Set movies = {1, true, 3, 4.5, "kadriye"};
+Set<String> books = {"aa", "bb"};
+
+// Map yapısı
+// Sözlük
+// key - value
+Map cities = {
+  "Ankara": 06,
+  "İstanbul": 34,
+};
+
+Map<String, bool> countries = {
+  "Türkiye": true,
+  "Almanya": false,
+  "Belçika": true,
+};
