@@ -5,7 +5,7 @@ void general5() {
 }
 
 void whileExample() {
-  int number = 5;
+  int number = 9;
 
 // 8'den büyük olduğu sürece
 // while, koşulu sağladığı sürece

@@ -5,7 +5,9 @@ import 'package:dart_operations/homeworks/berkay/16_april/berkay_answers2.dart';
 import 'package:dart_operations/homeworks/berkay/17_april/answers.dart';
 import 'package:dart_operations/homeworks/berkay/19_april/homework2.dart';
 import 'package:dart_operations/homeworks/berkay/21_april/random_examples.dart';
+import 'package:dart_operations/homeworks/berkay/25_april/homeworks_answers_berkay.dart';
 import 'package:dart_operations/lessons/functions.dart';
+import 'package:dart_operations/lessons/loops/loop_while.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -59,14 +61,14 @@ class _MyHomePageState extends State<MyHomePage> {
               'You have pushed the button this many times:',
             ),
             Text(
-              isOddProblem().toString(),
+              oddNumber().toString(),
               style: Theme.of(context).textTheme.headline4,
             ),
           ],
         ),
       ),
       floatingActionButton: const FloatingActionButton(
-        onPressed: factorial,
+        onPressed: whileFunctions,
         tooltip: 'Increment',
         child: Icon(Icons.add),
       ),

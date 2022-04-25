@@ -56,7 +56,7 @@ void factorial() {
     // 6 = 3 * 2
     // 24 = 4 * 6
     // 120 = 5 * 24
-    if (i == 5) {
+    {
       print(factorialNumber);
     }
   }
