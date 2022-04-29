@@ -12,6 +12,7 @@ void listLenght(Set<int> numbers) {
 
 // empty = boş
 void isEmpty(Set<int> numbers) {
+  //kadriye hocaya sor tekrar
   print(numbers.isEmpty);
 }
 
