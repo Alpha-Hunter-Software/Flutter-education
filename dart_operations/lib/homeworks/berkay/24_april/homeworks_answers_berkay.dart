@@ -1,6 +1,8 @@
 // Dikdörtgen alanı hesaplayan
 // bir fonksiyon yazın.
 
+import 'package:flutter/cupertino.dart';
+
 int shortEdge = 8;
 int longEdge = 8;
 int area = 2;
@@ -35,5 +37,24 @@ void whileFunctions() {
   while (i <= 100) {
     print(i);
     i++;
+  }
+}
+
+// While döngüsü ile 1 den 100′ e kadar sayıların toplamını yazdıran bir fonksiyon
+// kaydet
+void general() {
+  int firstNumber = 0;
+  int total = 0;
+
+  whileTotalFunctions(firstNumber, total);
+}
+
+void whileTotalFunctions(int firstNumber, int total) {
+  while (firstNumber < 100) {
+    total = firstNumber + total;
+    firstNumber++;
+    if (firstNumber == 100) {
+      print(total);
+    }
   }
 }
