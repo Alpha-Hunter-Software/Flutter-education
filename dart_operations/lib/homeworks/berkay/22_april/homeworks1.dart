@@ -3,11 +3,11 @@
 // Program bu 3 değişkene bakarak bize üçgenin çeşidini yazsın
 
 void triangleType() {
-  double firstAngle = 0;
+  double firstAngle = 55;
   print("Birinci Açı= $firstAngle ");
-  double secondAngle = 1;
+  double secondAngle = 80;
   print("İkinci Açı= $secondAngle ");
-  double thirdAngle = 179;
+  double thirdAngle = 50;
   print("Üçüncü Açı = $thirdAngle ");
 
   if (firstAngle + secondAngle + thirdAngle != 180) {

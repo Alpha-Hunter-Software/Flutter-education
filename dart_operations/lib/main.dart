@@ -13,6 +13,10 @@ import 'package:dart_operations/homeworks/berkay/22_april/homeworks1.dart';
 import 'package:dart_operations/homeworks/berkay/22_april/homeworks2.dart';
 import 'package:dart_operations/homeworks/berkay/22_april/homeworks3.dart';
 import 'package:dart_operations/homeworks/berkay/22_april/homeworks4.dart';
+import 'package:dart_operations/homeworks/berkay/22_april/homeworks5.dart';
+import 'package:dart_operations/homeworks/berkay/24_april/homeworks2.dart';
+import 'package:dart_operations/homeworks/berkay/24_april/homeworks3.dart';
+import 'package:dart_operations/homeworks/berkay/24_april/homeworks4.dart';
 import 'package:dart_operations/homeworks/berkay/24_april/homeworks_answers_berkay.dart';
 import 'package:dart_operations/lessons/functions.dart';
 import 'package:dart_operations/lessons/list_examples.dart';
@@ -79,7 +83,7 @@ class _MyHomePageState extends State<MyHomePage> {
       ),
       floatingActionButton: FloatingActionButton(
         onPressed: () =>
-            factorialExamples2(), // oluşturduğumuz fonksiyon isimlerini buraya yazıyoruz
+            oddNumberThree(), // oluşturduğumuz fonksiyon isimlerini buraya yazıyoruz
         tooltip: 'Increment',
         child: const Icon(Icons.add),
       ),

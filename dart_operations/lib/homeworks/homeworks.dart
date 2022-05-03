@@ -43,9 +43,9 @@
 // 24.04.2022
 // Dikdörtgen alanı hesaplayan bir fonksiyon yazın.
 // Geri dönüş değeri int tipinde bir fonksiyon yazınız, Fonksiyonumuz int tipinde bir sayı alsın, Aldığı sayıya kadar olan tek sayıların toplamını geriye döndürsün
-// While Döngüsü kullanarak 1-100 arası sayıları ekranda gösteren bir fonksiyon
-// While döngüsü ile 1 den 100′ e kadar sayıların toplamını yazdıran bir fonksiyon
-// İç içe for döngüleri nedir, nasıl kullanılır araştıralım
+// While Döngüsü kullanarak 1-100 arası sayıları ekranda gösteren bir fonksiyon Berkay Tekrar 1
+// While döngüsü ile 1 den 100′ e kadar sayıların toplamını yazdıran bir fonksiyon Berkay Terar 1 
+// İç içe for döngüleri nedir, nasıl kullanılır araştıralım  Berkay Tekrar 1 
 // 5 sayı arasındaki en küçük ve en büyük sayıyı bulan fonksiyon
 // Herhangi bir sayının asal sayı olup olmadığını gösteren bir fonksiyon
 // Fibonacci serisindeki ilk 10 sayıyı yazdıran bir fonksiyon 
@@ -69,3 +69,5 @@
 // Okuduğumuz dergilerin listesinden 2 dergiyi silelim
 // Oluşturacağımız herhangi bir listeden 7. elemanı yazdıralım
 // double tipinde 4 elemanlı bir Set yapısı tanımlayalım
+
+

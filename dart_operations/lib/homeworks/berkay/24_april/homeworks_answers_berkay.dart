@@ -11,50 +11,17 @@ void areafunctions() {
   print(area);
 }
 
-// Geri dönüş değeri int tipinde bir
-// fonksiyon yazınız, Fonksiyonumuz int tipinde
-// bir sayı alsın, Aldığı sayıya kadar olan
-// tek sayıların toplamını geriye döndürsün
+// Dikdörtgen alanı hesaplayan
+// bir fonksiyon yazın. Berkay Tekrar 1
 
-int oddNumber() {
-  int enteredNumber = 8;
-  int loopNumber = 0;
-
-  for (int i = 1; i <= enteredNumber; i++) {
-    loopNumber = i + loopNumber;
-  }
-  if (loopNumber % 2 != 0) ;
-  print(loopNumber);
-  return loopNumber;
-}
-
-// While Döngüsü kullanarak 1-100 arası sayıları
-// ekranda gösteren bir fonksiyon
-
-void whileFunctions() {
-  int i = 0;
-
-  while (i <= 100) {
-    print(i);
-    i++;
-  }
-}
-
-// While döngüsü ile 1 den 100′ e kadar sayıların toplamını yazdıran bir fonksiyon
-// kaydet
-void general() {
-  int firstNumber = 0;
-  int total = 0;
-
-  whileTotalFunctions(firstNumber, total);
-}
-
-void whileTotalFunctions(int firstNumber, int total) {
-  while (firstNumber < 100) {
-    total = firstNumber + total;
-    firstNumber++;
-    if (firstNumber == 100) {
-      print(total);
-    }
-  }
+void rectangle() {
+  int shortEdgeOne = 0;
+  int longEdge = 10;
+  int rentangleArea = shortEdgeOne * longEdge;
+  if (shortEdgeOne <= 0 ||
+      longEdge <= 0 ||
+      longEdge <= 0 && shortEdgeOne <= 0) {
+    print("Değerleri Kontrol ediniz");
+  } else
+    print(rentangleArea);
 }
