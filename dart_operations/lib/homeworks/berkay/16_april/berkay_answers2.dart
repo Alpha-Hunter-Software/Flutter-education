@@ -31,3 +31,20 @@ double returnFunction() {
 
   return speed;
 }
+
+void speedFormula() {
+  String equal = "=";
+  String divison = "/";
+  double path = 4000;
+  double time = 4;
+  double userSpeed = path / time;
+
+  print(userSpeed);
+  print("$path $divison $time $equal $userSpeed");
+}
+
+double deneme2(double userSpeed, double path, time) {
+  userSpeed = path / time;
+
+  return userSpeed;
+}

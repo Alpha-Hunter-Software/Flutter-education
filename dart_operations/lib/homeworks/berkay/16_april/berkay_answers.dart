@@ -31,3 +31,23 @@ double fieldFunction() {
 
   return numberArea;
 }
+
+// berkay tekrar 1
+
+double diameterOfTheCircle = 10;
+double piNumber = 3.14;
+double r2 = diameterOfTheCircle / 2 * diameterOfTheCircle / 2;
+String Multiplication = "*"; // multiplication = çarpma işleme
+double circlearea = piNumber * r2;
+String equal = "=";
+
+void circleArea() {
+  print(r2);
+  print(" $piNumber $Multiplication $r2 $equal $circlearea ");
+  print(circlearea);
+}
+
+double newFunction() {
+  circlearea = piNumber * r2;
+  return circlearea;
+}

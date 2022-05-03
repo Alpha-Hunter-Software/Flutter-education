@@ -1,8 +1,8 @@
 // 5 tane veri gönderilen fonksiyon tanımlayıp bunları çağırmak
 
 void general2() {
-  double height = 185;
-  double weigth = 90;
+  double height = 179;
+  double weigth = 84;
 
   index(height, weigth);
 }
