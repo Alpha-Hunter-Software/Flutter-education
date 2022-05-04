@@ -46,9 +46,9 @@
 // While Döngüsü kullanarak 1-100 arası sayıları ekranda gösteren bir fonksiyon Berkay Tekrar 1
 // While döngüsü ile 1 den 100′ e kadar sayıların toplamını yazdıran bir fonksiyon Berkay Terar 1 
 // İç içe for döngüleri nedir, nasıl kullanılır araştıralım  Berkay Tekrar 1 
-// 5 sayı arasındaki en küçük ve en büyük sayıyı bulan fonksiyon
-// Herhangi bir sayının asal sayı olup olmadığını gösteren bir fonksiyon
-// Fibonacci serisindeki ilk 10 sayıyı yazdıran bir fonksiyon 
+// 5 sayı arasındaki en küçük ve en büyük sayıyı bulan fonksiyon Berkay Tekrar 1 
+// Herhangi bir sayının asal sayı olup olmadığını gösteren bir fonksiyon Berkay Tekrar 1 
+// Fibonacci serisindeki ilk 10 sayıyı yazdıran bir fonksiyon Berkay Tekrar 1 
 
 //25.04.2022
 // List veri tipinde bir değişken oluşturup bunun özelliklerine bakalım
@@ -69,5 +69,8 @@
 // Okuduğumuz dergilerin listesinden 2 dergiyi silelim
 // Oluşturacağımız herhangi bir listeden 7. elemanı yazdıralım
 // double tipinde 4 elemanlı bir Set yapısı tanımlayalım
+
+
+
 
 
