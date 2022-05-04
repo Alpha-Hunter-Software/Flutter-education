@@ -21,6 +21,8 @@ import 'package:dart_operations/homeworks/berkay/24_april/homeworks6.dart';
 import 'package:dart_operations/homeworks/berkay/24_april/homeworks7.dart';
 import 'package:dart_operations/homeworks/berkay/24_april/homeworks8.dart';
 import 'package:dart_operations/homeworks/berkay/24_april/homeworks_answers_berkay.dart';
+import 'package:dart_operations/homeworks/berkay/25_april/homeworks1.dart';
+import 'package:dart_operations/homeworks/berkay/25_april/homeworks2.dart';
 import 'package:dart_operations/lessons/functions.dart';
 import 'package:dart_operations/lessons/list_examples.dart';
 import 'package:dart_operations/lessons/loops/loop_while.dart';
@@ -86,7 +88,7 @@ class _MyHomePageState extends State<MyHomePage> {
       ),
       floatingActionButton: FloatingActionButton(
         onPressed: () =>
-            primeNumberTwo(), // oluşturduğumuz fonksiyon isimlerini buraya yazıyoruz
+            letsGo(), // oluşturduğumuz fonksiyon isimlerini buraya yazıyoruz
         tooltip: 'Increment',
         child: const Icon(Icons.add),
       ),
