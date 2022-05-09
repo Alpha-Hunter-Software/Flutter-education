@@ -70,7 +70,13 @@
 // Oluşturacağımız herhangi bir listeden 7. elemanı yazdıralım
 // double tipinde 4 elemanlı bir Set yapısı tanımlayalım
 
-
+//09.05.2022
+// Sınıf yapıları araştırılacak (en basitlerine bakalım)
+// Filmler sınıfı oluşturalım, içinde 3 değişken, 2 fonksiyon olsun
+// Personel sınıfı oluşturalım, 
+//değişkenler(isim, maaş, adres, telefon, ünvan), 
+//fonksiyonlar(kişisel bilgileri(isim, adres, telefon) yazdıran fonksiyon, 
+//ünvan ve maaş yazdıran fonksiyon(switch-case ile ünvanı buysa maaşı şu kadar))
 
 
 
