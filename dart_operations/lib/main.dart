@@ -4,6 +4,7 @@ import 'package:dart_operations/homeworks/berkay/25_april/homeworks3.dart';
 import 'package:dart_operations/homeworks/berkay/25_april/homeworks4.dart';
 import 'package:dart_operations/lessons/class/book_class.dart';
 import 'package:dart_operations/lessons/class/class_examples.dart';
+import 'package:dart_operations/lessons/class/get_set/getter_setter_example.dart';
 import 'package:dart_operations/lessons/class/instrument_class.dart';
 import 'package:flutter/material.dart';
 
@@ -65,8 +66,7 @@ class _MyHomePageState extends State<MyHomePage> {
         ),
       ),
       floatingActionButton: FloatingActionButton(
-        onPressed: () =>
-            starTriangle(), // oluşturduğumuz fonksiyon isimlerini buraya yazıyoruz
+        onPressed: () => exampleEmployee(), // oluşturduğumuz fonksiyon isimlerini buraya yazıyoruz
         tooltip: 'Increment',
         child: const Icon(Icons.add),
       ),
