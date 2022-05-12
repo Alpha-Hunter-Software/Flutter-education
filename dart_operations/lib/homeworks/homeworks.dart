@@ -51,8 +51,8 @@
 // Fibonacci serisindeki ilk 10 sayıyı yazdıran bir fonksiyon Berkay Tekrar 1 
 
 //25.04.2022
-// List veri tipinde bir değişken oluşturup bunun özelliklerine bakalım
-// Herhangi bir sayının 3′ e ve 5′ e tam bölünüp bülünmediğini gösteren fonksiyon
+// List veri tipinde bir değişken oluşturup bunun özelliklerine bakalım Berkay Tekrar 1 
+// Herhangi bir sayının 3′ e ve 5′ e tam bölünüp bülünmediğini gösteren fonksiyon Berkay Tekrar 1 
 // Herhangi bir fiyat değerine % 18 kdv ekleyip kdvli fiyatını bulan ve ekrana yazan program
 // Yıldızlarla (*) üçgen şekli oluşturan bir fonksiyon yazalım
 // *
