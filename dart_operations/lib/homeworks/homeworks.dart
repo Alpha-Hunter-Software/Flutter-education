@@ -73,7 +73,6 @@
 //26.04.2022 - 08.05.2022
 // BAYRAM TATİLİ
 
-
 //09.05.2022
 // Sınıf yapıları araştırılacak (en basitlerine bakalım)
 // Filmler sınıfı oluşturalım, içinde 3 değişken, 2 fonksiyon olsun
