@@ -1,11 +1,4 @@
-import 'package:dart_operations/homeworks/berkay/24_april/homeworks2.dart';
-import 'package:dart_operations/homeworks/berkay/25_april/homeworks2.dart';
-import 'package:dart_operations/homeworks/berkay/25_april/homeworks3.dart';
-import 'package:dart_operations/homeworks/berkay/25_april/homeworks4.dart';
-import 'package:dart_operations/lessons/class/book_class.dart';
-import 'package:dart_operations/lessons/class/class_examples.dart';
 import 'package:dart_operations/lessons/class/get_set/getter_setter_example.dart';
-import 'package:dart_operations/lessons/class/instrument_class.dart';
 import 'package:flutter/material.dart';
 
 void main() {
