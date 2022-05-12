@@ -70,7 +70,21 @@
 // Oluşturacağımız herhangi bir listeden 7. elemanı yazdıralım
 // double tipinde 4 elemanlı bir Set yapısı tanımlayalım
 
+// 26.04.2022 - 08.05.2022
+// BAYRAM TATİLİ
 
 
+//09.05.2022
+// Sınıf yapıları araştırılacak (en basitlerine bakalım)
+// Filmler sınıfı oluşturalım, içinde 3 değişken, 2 fonksiyon olsun
+// Personel sınıfı oluşturalım, 
+//değişkenler(isim, maaş, adres, telefon, ünvan), 
+//fonksiyonlar(kişisel bilgileri(isim, adres, telefon) yazdıran fonksiyon, 
+//ünvan ve maaş yazdıran fonksiyon(switch-case ile ünvanı buysa maaşı şu kadar))
+
+//10.05.2022
+// null nedir, açıklamalarına bakalım
+// null olabilen değerler nasıl tanımlanır
+// constructor nedir
 
 
