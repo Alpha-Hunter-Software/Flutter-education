@@ -87,4 +87,8 @@
 // null olabilen değerler nasıl tanımlanır
 // constructor nedir
 
+//11.05.2022
+//TATİL
 
+//12.05.2022
+// Future nedir, araştıralım
