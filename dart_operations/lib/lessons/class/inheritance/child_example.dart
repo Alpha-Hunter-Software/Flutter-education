@@ -1,4 +1,4 @@
-import 'package:dart_operations/lessons/class/inheritance_examples.dart/parent_example.dart';
+import 'package:dart_operations/lessons/class/inheritance/parent_example.dart';
 
 // extends ile Parent sınıfından Child sınıfını ürettiğimizi belirtiyoruz.
 class Child extends Parent {
