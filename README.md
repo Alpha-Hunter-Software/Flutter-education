@@ -8,4 +8,8 @@
  - operatörler
  - list, set, map yapıları
  - class yapıları
+ - constuctor
+ - getter-setter
+ - async-await
+ - final, const, static const
  - tüm konularla ilgili ödev soruları
