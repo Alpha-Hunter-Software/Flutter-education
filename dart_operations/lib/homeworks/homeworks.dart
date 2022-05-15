@@ -30,7 +30,7 @@
 // Rastgele bir yılın şu anki yılda olup olmadığını bulan  Berkay Tekrar 1  
 // Bir robotu yürütmek için sağ-sol-ileri-geri yönlendiren bir program yazın Berkay Tekrar 1 
 
-// 22.04.2022
+//22.04.2022
 // Üçgenin çeşidini yazdıran bir program yazalım, 3 tane değişken oluşturun ve içerisine değerler girin, Program bu 3 değişkene bakarak bize üçgenin çeşidini yazsın Berkay 
 // İstediğimiz bir cümleyi her bir döngü yapısı ile ekrana beşer kere yazdıralım (for, do-while, while) Berkay Tekrar 1 
 // Verdiğimiz sayının faktoriyel değerini hesaplayın Berkay Tekrar 1  
@@ -40,7 +40,7 @@
 //23.04.2022
 //TATİL
 
-// 24.04.2022
+//24.04.2022
 // Dikdörtgen alanı hesaplayan bir fonksiyon yazın.
 // Geri dönüş değeri int tipinde bir fonksiyon yazınız, Fonksiyonumuz int tipinde bir sayı alsın, Aldığı sayıya kadar olan tek sayıların toplamını geriye döndürsün
 // While Döngüsü kullanarak 1-100 arası sayıları ekranda gösteren bir fonksiyon Berkay Tekrar 1
@@ -70,9 +70,8 @@
 // Oluşturacağımız herhangi bir listeden 7. elemanı yazdıralım
 // double tipinde 4 elemanlı bir Set yapısı tanımlayalım
 
-// 26.04.2022 - 08.05.2022
+//26.04.2022 - 08.05.2022
 // BAYRAM TATİLİ
-
 
 //09.05.2022
 // Sınıf yapıları araştırılacak (en basitlerine bakalım)
@@ -87,4 +86,13 @@
 // null olabilen değerler nasıl tanımlanır
 // constructor nedir
 
+//11.05.2022
+//TATİL
 
+//12.05.2022
+// Future nedir, araştıralım
+// 1 tane get-set metodu içeren bir sınıf yazıp, onu bir fonksiyon içinde kullanalım
+// 1 tane get-set metodu oluştururken set içerisinde koşullu ifade olsun ve bu sınıfı bir fonksiyon içinde kullanalım
+// async-await nedir, örnek bir fonksiyon yazalım
+// final-const farkları nelerdir, benzerlikler nelerdir
+// bir sınıf oluşturup, içerisinde final ile değişkenler tanımlayalım
