@@ -6,12 +6,20 @@
 // * * * * *        gibi
 
 void starTriangle() {
-  int line = 5;
+  // int line = 5;
+  // for (int i = 0; i < line; i++) {
+  //   for (int j = 0; j < i; j++) {
+  //     print("*");
+  //   }
+  //   print("\n");
+  // }
 
-  for (int i = 0; i < line; i++) {
-    for (int a = 0; a <= i; a++) {
-      print("*");
-    }
-    print("/n");
+  List<String> list = ["*"];
+
+  int rows = 5;
+  for (int i = 0; i < rows; ++i) {
+    //print(list);
+    print("$list");
+    list.add("*");
   }
 }

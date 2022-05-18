@@ -1,4 +1,7 @@
+import 'package:dart_operations/homeworks/berkay/25_april/homeworks4.dart';
 import 'package:dart_operations/lessons/class/get_set/getter_setter_example.dart';
+import 'package:dart_operations/lessons/values/example_map.dart';
+import 'package:dart_operations/lessons/values/list_examples_again.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -59,7 +62,8 @@ class _MyHomePageState extends State<MyHomePage> {
         ),
       ),
       floatingActionButton: FloatingActionButton(
-        onPressed: () => exampleEmployee(), // oluşturduğumuz fonksiyon isimlerini buraya yazıyoruz
+        onPressed: () =>
+            mapExample(), // oluşturduğumuz fonksiyon isimlerini buraya yazıyoruz
         tooltip: 'Increment',
         child: const Icon(Icons.add),
       ),

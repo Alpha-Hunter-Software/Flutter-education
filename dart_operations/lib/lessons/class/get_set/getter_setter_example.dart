@@ -8,7 +8,7 @@ class Employee {
 // get ile sadece o değişkene ulaşabilirim, görebilirim, çağıbilirim
 // AMA ASLA SADECE GET İLE DEĞERİNİ DEĞİŞTİREMEM
   String get employeeName {
-    return empName;
+    return empName + "beyler";
   }
 
   // set tanımı
