@@ -53,15 +53,15 @@
 //25.04.2022
 // List veri tipinde bir değişken oluşturup bunun özelliklerine bakalım Berkay Tekrar 1 
 // Herhangi bir sayının 3′ e ve 5′ e tam bölünüp bülünmediğini gösteren fonksiyon Berkay Tekrar 1 
-// Herhangi bir fiyat değerine % 18 kdv ekleyip kdvli fiyatını bulan ve ekrana yazan program
-// Yıldızlarla (*) üçgen şekli oluşturan bir fonksiyon yazalım
+// Herhangi bir fiyat değerine % 18 kdv ekleyip kdvli fiyatını bulan ve ekrana yazan program Berkay Tekrar 1 
+// Yıldızlarla (*) üçgen şekli oluşturan bir fonksiyon yazalım Berkay Tekrar 1 
 // *
 // * *
 // * * *
 // * * * *
 // * * * * *        gibi
-// key = String, value = double tipinde bir map yapısı oluşturalım 
-// key = int, value = String tipinde bir map yapısı oluşturalım
+// key = String, value = double tipinde bir map yapısı oluşturalım  Berkay Tekrar 1 
+// key = int, value = String tipinde bir map yapısı oluşturalım Berkay Tekrar 1 
 // key = dynamic, value = dynamic tipinde bir map yapısı oluşturalım
 // key = String, value = bool tipinde bir map yapısı oluşturalım
 // Burçların bulunduğu bir liste oluşturalım, bu listeyi for ile yazdıralım
