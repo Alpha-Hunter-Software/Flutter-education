@@ -1,5 +1,4 @@
 // key = String, value = double tipinde bir map yapısı oluşturalım
-import 'package:dart_operations/lessons/values.dart';
 
 void examples() {
   Map<String, double> Clock = {
