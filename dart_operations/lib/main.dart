@@ -1,3 +1,4 @@
+import 'package:dart_operations/lessons/functions/future_examples_detail.dart';
 import 'package:dart_operations/lessons/values/example_map.dart';
 import 'package:flutter/material.dart';
 
@@ -60,7 +61,7 @@ class _MyHomePageState extends State<MyHomePage> {
       ),
       floatingActionButton: FloatingActionButton(
         onPressed: () =>
-            mapExample(), // oluşturduğumuz fonksiyon isimlerini buraya yazıyoruz
+            futureDetailExample(), // oluşturduğumuz fonksiyon isimlerini buraya yazıyoruz
 
         tooltip: 'Increment',
         child: const Icon(Icons.add),
