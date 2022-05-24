@@ -96,3 +96,6 @@
 // async-await nedir, örnek bir fonksiyon yazalım
 // final-const farkları nelerdir, benzerlikler nelerdir
 // bir sınıf oluşturup, içerisinde final ile değişkenler tanımlayalım
+
+//24.05.2022
+// lambda fonksiyon araştıralım
