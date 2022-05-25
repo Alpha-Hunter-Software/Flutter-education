@@ -99,3 +99,10 @@
 
 //24.05.2022
 // lambda fonksiyon araştıralım
+
+//25.05.2022
+// mixin nedir, override nedir araştıralım
+// mixin ve override örnekleri yazalım 2şer tane
+// interface nedir, absract nedir araştıralım
+// interface ve absract örnekleri yapalım 2şer tane
+ 
