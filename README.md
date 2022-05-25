@@ -12,9 +12,9 @@
  - getter-setter
  - async-await
  - final, const, static const
- - inheritance
  - Future
- - mixins
+ - inheritance
  - interface ve absract
+ - mixins
  - exceptions
  - tüm konularla ilgili ödev soruları
