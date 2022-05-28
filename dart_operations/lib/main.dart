@@ -79,12 +79,7 @@ class _MyHomePageState extends State<MyHomePage> {
       ),
       floatingActionButton: FloatingActionButton(
         onPressed: () =>
-<<<<<<< HEAD
             personnelTitle(), // oluşturduğumuz fonksiyon isimlerini buraya yazıyoruz
-=======
-            futureDetailExample(), // oluşturduğumuz fonksiyon isimlerini buraya yazıyoruz
-
->>>>>>> b5ab39cb20938da0d18b33cccb5e451be52f2ed6
         tooltip: 'Increment',
         child: const Icon(Icons.add),
       ),
