@@ -26,6 +26,12 @@ Null Ne Demek?
  Null kelimesi bu yazılışı üzerinden Türkçede yer almaz ve kullanılmaz. Ancak İngilizcede tek başına veya cümlede çok fazla değerlendirilen sözcüklerden biridir.
 
  
-
+ 
 */
 
+// null olabilen değerler nasıl tanımlanır ?? 
+
+                     
+
+// constructor nedir ?? 
+                                         
