@@ -95,4 +95,18 @@
 // 1 tane get-set metodu oluştururken set içerisinde koşullu ifade olsun ve bu sınıfı bir fonksiyon içinde kullanalım
 // async-await nedir, örnek bir fonksiyon yazalım
 // final-const farkları nelerdir, benzerlikler nelerdir
+<<<<<<< HEAD
 // bir sınıf oluşturup, içerisinde final ile değişkenler tanımlayalım Berkay Tekrar 1 
+=======
+// bir sınıf oluşturup, içerisinde final ile değişkenler tanımlayalım
+
+//24.05.2022
+// lambda fonksiyon araştıralım
+
+//25.05.2022
+// mixin nedir, override nedir araştıralım
+// mixin ve override örnekleri yazalım 2şer tane
+// interface nedir, absract nedir araştıralım
+// interface ve absract örnekleri yapalım 2şer tane
+ 
+>>>>>>> b5ab39cb20938da0d18b33cccb5e451be52f2ed6
