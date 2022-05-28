@@ -10,10 +10,10 @@ void listExamples() {
 
   // listLenght(books);
   // listItems(books);
-  // listAllItems(books);
+  listAllItems(books);
   // isEmpty(books);
   // addItem(books);
-  removeItem(books);
+  //removeItem(books);
 }
 
 void listLenght(List<String> books) {

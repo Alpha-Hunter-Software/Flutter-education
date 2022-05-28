@@ -64,27 +64,27 @@
 // key = int, value = String tipinde bir map yapısı oluşturalım Berkay Tekrar 1 
 // key = dynamic, value = dynamic tipinde bir map yapısı oluşturalım
 // key = String, value = bool tipinde bir map yapısı oluşturalım
-// Burçların bulunduğu bir liste oluşturalım, bu listeyi for ile yazdıralım
-// Gezmek istediğimiz ülkelerin listesini oluşturup, 5 tane yeni ülke ekleyelim
-// Okuduğumuz dergilerin listesinden 2 dergiyi silelim
-// Oluşturacağımız herhangi bir listeden 7. elemanı yazdıralım
-// double tipinde 4 elemanlı bir Set yapısı tanımlayalım
+// Burçların bulunduğu bir liste oluşturalım, bu listeyi for ile yazdıralım Berkay Tekrar 1 
+// Gezmek istediğimiz ülkelerin listesini oluşturup, 5 tane yeni ülke ekleyelim Berkay Tekrar 1 
+// Okuduğumuz dergilerin listesinden 2 dergiyi silelim  Berkay Tekrar 1 
+// Oluşturacağımız herhangi bir listeden 7. elemanı yazdıralım Berkay Tekrar 1  
+// double tipinde 4 elemanlı bir Set yapısı tanımlayalım Berkay Tekrar 1 
 
 //26.04.2022 - 08.05.2022
 // BAYRAM TATİLİ
 
 //09.05.2022
-// Sınıf yapıları araştırılacak (en basitlerine bakalım)
-// Filmler sınıfı oluşturalım, içinde 3 değişken, 2 fonksiyon olsun
-// Personel sınıfı oluşturalım, 
-//değişkenler(isim, maaş, adres, telefon, ünvan), 
-//fonksiyonlar(kişisel bilgileri(isim, adres, telefon) yazdıran fonksiyon, 
-//ünvan ve maaş yazdıran fonksiyon(switch-case ile ünvanı buysa maaşı şu kadar))
+// Sınıf yapıları araştırılacak (en basitlerine bakalım) Berkay Tekrar 1  
+// Filmler sınıfı oluşturalım, içinde 3 değişken, 2 fonksiyon olsun Berkay Tekrar 1  
+// Personel sınıfı oluşturalım,  Berkay Tekrar 1  
+//değişkenler(isim, maaş, adres, telefon, ünvan),  Berkay Tekrar 1 
+//fonksiyonlar(kişisel bilgileri(isim, adres, telefon) yazdıran fonksiyon,Berkay Tekrar 1  
+//ünvan ve maaş yazdıran fonksiyon(switch-case ile ünvanı buysa maaşı şu kadar)) Berkay Tekrar 1 
 
 //10.05.2022
-// null nedir, açıklamalarına bakalım
-// null olabilen değerler nasıl tanımlanır
-// constructor nedir
+// null nedir, açıklamalarına bakalım Berkay Tekrar 1 
+// null olabilen değerler nasıl tanımlanır Berkay Tekrar 1 
+// constructor nedir Berkay Tekrar 1 
 
 //11.05.2022
 //TATİL
@@ -95,4 +95,4 @@
 // 1 tane get-set metodu oluştururken set içerisinde koşullu ifade olsun ve bu sınıfı bir fonksiyon içinde kullanalım
 // async-await nedir, örnek bir fonksiyon yazalım
 // final-const farkları nelerdir, benzerlikler nelerdir
-// bir sınıf oluşturup, içerisinde final ile değişkenler tanımlayalım
+// bir sınıf oluşturup, içerisinde final ile değişkenler tanımlayalım Berkay Tekrar 1 

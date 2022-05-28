@@ -1,11 +1,18 @@
+import 'package:dart_operations/homeworks/berkay/12_may/homeworks1.dart';
 import 'package:dart_operations/homeworks/berkay/24_april/homeworks2.dart';
+import 'package:dart_operations/homeworks/berkay/25_april/homeworks10_11.dart';
 import 'package:dart_operations/homeworks/berkay/25_april/homeworks2.dart';
 import 'package:dart_operations/homeworks/berkay/25_april/homeworks3.dart';
 import 'package:dart_operations/homeworks/berkay/25_april/homeworks4.dart';
 import 'package:dart_operations/homeworks/berkay/25_april/homeworks5_6_7_8.dart';
+import 'package:dart_operations/homeworks/berkay/25_april/homeworks9.dart';
+import 'package:dart_operations/homeworks/berkay/9_may.dart/homeworks1.dart';
 import 'package:dart_operations/lessons/class/book_class.dart';
 import 'package:dart_operations/lessons/class/class_examples.dart';
-import 'package:dart_operations/lessons/class/instrument_class.dart';
+import 'package:dart_operations/lessons/controls/control_if_else.dart';
+import 'package:dart_operations/lessons/values/list_examples.dart';
+import 'package:dart_operations/lessons/values/values.dart';
+
 import 'package:flutter/material.dart';
 
 void main() {
@@ -67,7 +74,7 @@ class _MyHomePageState extends State<MyHomePage> {
       ),
       floatingActionButton: FloatingActionButton(
         onPressed: () =>
-            examplesOne(), // oluşturduğumuz fonksiyon isimlerini buraya yazıyoruz
+            personnelTitle(), // oluşturduğumuz fonksiyon isimlerini buraya yazıyoruz
         tooltip: 'Increment',
         child: const Icon(Icons.add),
       ),

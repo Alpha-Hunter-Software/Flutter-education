@@ -1,5 +1,4 @@
 // key = String, value = double tipinde bir map yapısı oluşturalım
-import 'package:dart_operations/lessons/values.dart';
 
 void examples() {
   Map<String, double> Clock = {
@@ -66,7 +65,13 @@ void keyDynamicValueDynamic() {
   print(wars);
 }
 
-
 // key = String, value = bool tipinde bir map yapısı oluşturalım
 
-
+void theEnd() {
+  Map<String, bool> bestgames = {
+    "MOUNT AND BLADE": true,
+    "CSGO": false,
+    "GTA5": true
+  };
+  print(bestgames);
+}
