@@ -1,5 +1,5 @@
-<<<<<<< HEAD
 import 'package:dart_operations/homeworks/berkay/12_may/homeworks1.dart';
+import 'package:dart_operations/homeworks/berkay/12_may/homeworks3.dart';
 import 'package:dart_operations/homeworks/berkay/24_april/homeworks2.dart';
 import 'package:dart_operations/homeworks/berkay/25_april/homeworks10_11.dart';
 import 'package:dart_operations/homeworks/berkay/25_april/homeworks2.dart';
@@ -14,10 +14,9 @@ import 'package:dart_operations/lessons/controls/control_if_else.dart';
 import 'package:dart_operations/lessons/values/list_examples.dart';
 import 'package:dart_operations/lessons/values/values.dart';
 
-=======
 import 'package:dart_operations/lessons/functions/future_examples_detail.dart';
 import 'package:dart_operations/lessons/values/example_map.dart';
->>>>>>> b5ab39cb20938da0d18b33cccb5e451be52f2ed6
+
 import 'package:flutter/material.dart';
 
 void main() {
@@ -79,7 +78,7 @@ class _MyHomePageState extends State<MyHomePage> {
       ),
       floatingActionButton: FloatingActionButton(
         onPressed: () =>
-            personnelTitle(), // oluşturduğumuz fonksiyon isimlerini buraya yazıyoruz
+            mother(), // oluşturduğumuz fonksiyon isimlerini buraya yazıyoruz
         tooltip: 'Increment',
         child: const Icon(Icons.add),
       ),
