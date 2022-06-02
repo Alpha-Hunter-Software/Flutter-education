@@ -1,7 +1,5 @@
 // bir sınıf oluşturup, içerisinde final ile değişkenler tanımlayalım
 
-import 'dart:html';
-
 class time {
   time(
       {required this.mounth,

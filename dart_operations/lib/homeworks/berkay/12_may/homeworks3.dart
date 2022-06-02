@@ -117,3 +117,41 @@ class printClass {
     print("****ALPHA HUNTER SOFTWARE");
   }
 }
+
+// bir sınıf oluşturup, içerisinde final ile değişkenler tanımlayalım Berkay Tekrar 1
+// bir sınıf oluşturup, içerisinde final ile değişkenler tanımlayalım
+void weatherForecastaa() {
+  FinalClass aadeneme = FinalClass();
+  aadeneme.weatherForecast();
+}
+
+class FinalClass {
+  final int rainy = 1;
+  final int sunny = 2;
+  final int indy = 3;
+  final int snowy = 4;
+  int enteredNumber = 3;
+  void weatherForecast() {
+    if (enteredNumber == rainy) {
+      print("HAVA YAĞMURLU");
+    } else if (enteredNumber == sunny) {
+      print("HAVA GÜNEŞLİ ");
+    } else if (enteredNumber == indy) {
+      print("HAVA RÜZGARLI ");
+    } else if (enteredNumber == snowy) {
+      print("HAVA KARLI ");
+    } else if (enteredNumber != rainy &&
+        enteredNumber != sunny &&
+        enteredNumber != indy &&
+        enteredNumber != snowy) {
+      print("DEĞER ÖLÇÜLEMEDİ");
+    }
+  }
+}
+
+
+//24.05.2022
+// lambda fonksiyon araştıralım
+
+
+
